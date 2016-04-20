@@ -271,9 +271,9 @@ header{
 
 .anchor {
     display: block;
-    height: 144px;
+    height: 184px;
     /*same height as header*/
-    margin-top: -144px;
+    margin-top: -184px;
     /*same height as header*/
     visibility: hidden;
 }
