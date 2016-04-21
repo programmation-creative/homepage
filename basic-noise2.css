@@ -285,6 +285,10 @@ header{
     margin: 10px;
 }
 
+.gallerie_item img{
+    width: 100%;
+}
+
 .caption{
     width:90%;
     font-style: italic;
