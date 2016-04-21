@@ -277,3 +277,17 @@ header{
     /*same height as header*/
     visibility: hidden;
 }
+
+.gallerie_item{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.caption{
+    width:90%;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+}
